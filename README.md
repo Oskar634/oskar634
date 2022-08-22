@@ -25,7 +25,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="LUA" height="25" src="images/lua.svg"></code>
+  <code><img title="LUA" height="25" src="[images/lua.svg](https://user-images.githubusercontent.com/90392589/185968716-149b160d-70e6-4cb6-b7b3-c0849554f6c0.png)"></code>
 </p>
 <hr>
 
