@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Oskar....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -22,7 +22,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages 🔥</h2>
 <br>
 <p align="center">
   <code><img title="LUA" height="25" src="[images/lua.svg](https://user-images.githubusercontent.com/90392589/185968716-149b160d-70e6-4cb6-b7b3-c0849554f6c0.png)"></code>
