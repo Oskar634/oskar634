@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.google.com" title="Maybe Ill add a link here one day."><img width="22" src="images/linkedin.svg"> Maybe Ill add a link here one day.</a></code>
+    <a href="[https://www.google.com](https://github.com/copy634/copy634/blob/main/README.md)" title="Maybe Ill add a link here one day."><img width="22" src="images/linkedin.svg"> Maybe Ill add a link here one day.</a></code>
 </h5>
 <br>
 <p align="center">
