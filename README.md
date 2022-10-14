@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="[https://zero-development-shop.tebex.io/](https://github.com/copy634/copy634/blob/main/README.md)" title="Tebex store."><img width="22" src="images/linkedin.svg"> Maybe Ill add a link here one day.</a></code>
+    <a href="[https://zero-development-shop.tebex.io/](https://github.com/copy634/copy634/blob/main/README.md)" title="Tebex store."><img width="22" src="images/linkedin.svg"> My tebex store.</a></code>
 </h5>
 <br>
 <p align="center">
