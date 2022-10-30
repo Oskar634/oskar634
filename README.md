@@ -14,8 +14,6 @@
 <p align="center">
   Hi, I'm Oskar.
   <br>
-  🔬 I like playing games
-  <br>
   💻 I'm currently working on fivem scripts
   <br>
   📫 Contact me on discord: Oskar#2222 
